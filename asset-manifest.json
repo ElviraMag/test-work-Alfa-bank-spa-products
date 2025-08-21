@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test-work-Alfa-bank-spa-products/static/css/main.014f3114.css",
+    "main.js": "/test-work-Alfa-bank-spa-products/static/js/main.ebcf4994.js",
+    "static/media/product 7.avif": "/test-work-Alfa-bank-spa-products/static/media/product 7.e7452464688ea8b53178.avif",
+    "static/media/product 11.avif": "/test-work-Alfa-bank-spa-products/static/media/product 11.bae32c094865cfe351ff.avif",
+    "static/media/product 8.avif": "/test-work-Alfa-bank-spa-products/static/media/product 8.a22a0d50f2ed9856f375.avif",
+    "static/media/product 12.avif": "/test-work-Alfa-bank-spa-products/static/media/product 12.fadf82dad07bdcff8602.avif",
+    "static/media/product 5.avif": "/test-work-Alfa-bank-spa-products/static/media/product 5.4f78a6ef352982f0388c.avif",
+    "static/media/product 1.avif": "/test-work-Alfa-bank-spa-products/static/media/product 1.9767026ca2ce98efa424.avif",
+    "static/media/product 3.avif": "/test-work-Alfa-bank-spa-products/static/media/product 3.9784bf1056166cce1e10.avif",
+    "static/media/product 6.avif": "/test-work-Alfa-bank-spa-products/static/media/product 6.c5c7534ab2b3e74180e6.avif",
+    "static/media/product 4.avif": "/test-work-Alfa-bank-spa-products/static/media/product 4.06d29043e1d88de952bc.avif",
+    "static/media/product 10.avif": "/test-work-Alfa-bank-spa-products/static/media/product 10.1935385316f139d3f432.avif",
+    "static/media/product 2.avif": "/test-work-Alfa-bank-spa-products/static/media/product 2.df185375689d4c401285.avif",
+    "static/media/product 9.avif": "/test-work-Alfa-bank-spa-products/static/media/product 9.613868be87c026790108.avif",
+    "index.html": "/test-work-Alfa-bank-spa-products/index.html",
+    "main.014f3114.css.map": "/test-work-Alfa-bank-spa-products/static/css/main.014f3114.css.map",
+    "main.ebcf4994.js.map": "/test-work-Alfa-bank-spa-products/static/js/main.ebcf4994.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.014f3114.css",
+    "static/js/main.ebcf4994.js"
+  ]
+}
