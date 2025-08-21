@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Расслабляющий массаж",
+      "description": "Погрузитесь в мир полного расслабления с нашим массажем.",
+      "image": "/assets/images/product 1.avif",
+      "liked": false,
+      "price": 2500
+    },
+    {
+      "id": "2",
+      "title": "СПА уход за лицом",
+      "description": "Омолаживающие процедуры для сияющей кожи.",
+      "image": "/assets/images/product 2.avif",
+      "liked": false,
+      "price": 3000
+    },
+    {
+      "id": "3",
+      "title": "Педикюр",
+      "description": "Профессиональный уход за ногтями и кожей стоп.",
+      "image": "/assets/images/product 3.avif",
+      "liked": false,
+      "price": 1500
+    },
+    {
+      "id": "4",
+      "title": "Маникюр",
+      "description": "Подарите своим рукам уход и красоту.",
+      "image": "/assets/images/product 4.avif",
+      "liked": false,
+      "price": 1800
+    },
+    {
+      "id": "5",
+      "title": "Паровые ванны",
+      "description": "Очищение и расслабление в паровых банях с эфирными маслами.",
+      "image": "/assets/images/product 5.avif",
+      "liked": false,
+      "price": 5500
+    },
+    {
+      "id": "8",
+      "title": "Фитнес массаж",
+      "description": "Восстановление после тренировок.",
+      "image": "/assets/images/product 8.avif",
+      "liked": false,
+      "price": 3800
+    },
+    {
+      "id": "9",
+      "title": "Йога терапия",
+      "description": "Дыхательные практики и растяжка.",
+      "image": "/assets/images/product 9.avif",
+      "liked": false,
+      "price": 1500
+    },
+    {
+      "id": "10",
+      "title": "Глубокое очищение кожи",
+      "description": "Процедура для удаления загрязнений и улучшения цвета лица.",
+      "image": "/assets/images/product 10.avif",
+      "liked": false,
+      "price": 3000
+    },
+    {
+      "id": "11",
+      "title": "Антицеллюлитный массаж",
+      "description": "Эффективная техника для борьбы с целлюлитом и улучшения тонуса кожи.",
+      "image": "/assets/images/product 11.avif",
+      "liked": false,
+      "price": 2400
+    },
+    {
+      "id": "12",
+      "title": "СПА педикюр с парафином",
+      "description": "Питательная процедура для мягкости и здоровья кожи ног.",
+      "image": "/assets/images/product 12.avif",
+      "liked": false,
+      "price": 3600
+    },
+    {
+      "id": "6ad8d5c9-8daa-4f64-8ed2-387581432294",
+      "title": "массаж котиками",
+      "description": "meow",
+      "image": "https://avatars.mds.yandex.net/i?id=02e3e552a82968de8bc500e5b20962e3a9cd4981-4055050-images-thumbs&n=13",
+      "price": 120000001,
+      "liked": false,
+      "created": true
+    }
+  ]
+}
