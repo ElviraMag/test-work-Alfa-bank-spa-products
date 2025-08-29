@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ElviraMag.github.io/test-work-Alfa-bank-spa-products",
   "name": "spa-products",
   "version": "0.1.0",
   "private": true,
@@ -25,6 +26,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -55,6 +58,7 @@
     "@types/uuid": "^10.0.0",
     "autoprefixer": "^10.4.21",
     "concurrently": "^9.2.0",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17"
   }
