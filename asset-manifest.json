@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-work-Alfa-bank-spa-products/static/css/main.014f3114.css",
-    "main.js": "/test-work-Alfa-bank-spa-products/static/js/main.ebcf4994.js",
+    "main.js": "/test-work-Alfa-bank-spa-products/static/js/main.bbe16c61.js",
     "static/media/product 7.avif": "/test-work-Alfa-bank-spa-products/static/media/product 7.e7452464688ea8b53178.avif",
     "static/media/product 11.avif": "/test-work-Alfa-bank-spa-products/static/media/product 11.bae32c094865cfe351ff.avif",
     "static/media/product 8.avif": "/test-work-Alfa-bank-spa-products/static/media/product 8.a22a0d50f2ed9856f375.avif",
@@ -16,10 +16,10 @@
     "static/media/product 9.avif": "/test-work-Alfa-bank-spa-products/static/media/product 9.613868be87c026790108.avif",
     "index.html": "/test-work-Alfa-bank-spa-products/index.html",
     "main.014f3114.css.map": "/test-work-Alfa-bank-spa-products/static/css/main.014f3114.css.map",
-    "main.ebcf4994.js.map": "/test-work-Alfa-bank-spa-products/static/js/main.ebcf4994.js.map"
+    "main.bbe16c61.js.map": "/test-work-Alfa-bank-spa-products/static/js/main.bbe16c61.js.map"
   },
   "entrypoints": [
     "static/css/main.014f3114.css",
-    "static/js/main.ebcf4994.js"
+    "static/js/main.bbe16c61.js"
   ]
 }
